@@ -1,0 +1,7 @@
+{
+  "bot_token": "6657290797:AAGrcgkpqauVpBWLYt-CqP2QvadGY0modLE",
+  "search_percent": 80,
+  "max_length_author": 100,
+  "max_length_style": 70,
+  "max_length_book":200
+}
